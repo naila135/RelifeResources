@@ -1,7 +1,0 @@
-name: PermTrading
-version: '1.0-SNAPSHOT'
-main: net.legendahlupa.com.permtrading.PermTrading
-api-version: 1.18
-authors: [ LegendaHluPa ]
-commands:
-  trading:
