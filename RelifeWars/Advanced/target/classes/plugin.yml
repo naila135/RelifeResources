@@ -1,0 +1,11 @@
+name: Siege
+version: '1.0-SNAPSHOT'
+main: net.legendahlupa.com.siege.Siege
+api-version: 1.18
+authors: [ LegendaHluPa ]
+depend:
+  - Towny
+commands:
+  siege:
+    aliases: war
+  siegealive:
