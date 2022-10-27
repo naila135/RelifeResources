@@ -1,0 +1,14 @@
+name: Siege
+version: '${project.version}'
+main: net.legendahlupa.com.siege.Siege
+api-version: 1.18
+authors: [ LegendaHluPa ]
+depend:
+  - Towny
+commands:
+  siege:
+    aliases: war
+  siegealive:
+    aliases: salive
+  siegedeadth:
+    aliases: sdeadth
