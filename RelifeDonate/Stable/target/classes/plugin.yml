@@ -1,0 +1,7 @@
+name: RelifeDonV2
+version: '1.0-SNAPSHOT'
+main: net.legendahlupa.com.relifedonv2.RelifeDonV2
+api-version: 1.18
+authors: [ LegendaHluPa ]
+commands:
+  dmoney:
