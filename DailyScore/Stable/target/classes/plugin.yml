@@ -1,0 +1,34 @@
+name: DailyScore
+version: '1.0-SNAPSHOT'
+main: net.legendahlupa.com.dailyscore.DailyScore
+api-version: 1.18
+authors: [ LegendaHluPa ]
+softdepend: [PlaceholderAPI]
+commands:
+  DailyScoreTake:
+    description: "Команда для изъятия очков"
+    permission: dailytask.take
+    permission-message: §4У вас недостаточно прав
+    usage: "Использование команды: /drtake [player] [amount]"
+    aliases:
+      - drtake
+  DailyScoreGive:
+    description: "Команда для выдачи очков"
+    permission: dailytask.give
+    permission-message: §4У вас недостаточно прав
+    usage: "Использование команды: /drgive [player] [amount]"
+    aliases:
+      - drgive
+permissions:
+  dailytask.*:
+    description: "Доступ ко всем командам плагина"
+    default: op
+    children:
+      dailytask.take: true
+      dailytask.give: true
+  dailytask.take:
+    description: "Доступ к команде изъятия"
+    default: op
+  dailytask.give:
+    description: "Доступ к команде выдачи"
+    default: op
