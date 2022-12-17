@@ -1,0 +1,12 @@
+DiscordBotToken: "OTMzMzYyMDA4NzQzNjEyNTM2.GnsA-y.BbfIWefDS8jZQSg9ZOcAV9WkDPbVn8HjxaR6Y4"
+DiscordAcceptingChannel: "1047619639800242256"
+AdminGroups:
+  - "Admin"
+  - "Owner"
+MySQL:
+  host: 65.109.21.161
+  port: 3306
+  database: s1_Test
+  username: u1_v1HTxTQSVw
+  password: icXoP355Ig3j.Aj8msr52OWt
+  table-prefix: server_
