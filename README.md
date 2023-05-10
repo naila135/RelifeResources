@@ -4,4 +4,4 @@ Use of resources from this repository is prohibited.<br>
 
 Authors:<br>
 LegendaHlupa- Yaroslav Borch.<br>
-naila135 - Andrii Priymich.
+naila135 - Andrii Priymch.
