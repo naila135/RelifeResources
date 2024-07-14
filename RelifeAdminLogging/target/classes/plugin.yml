@@ -1,0 +1,4 @@
+name: RelifeAdminLogging
+version: '1.0-SNAPSHOT'
+main: net.legendahlupa.com.relifeadminlogging.RelifeAdminLogging
+api-version: '1.20'

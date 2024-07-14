@@ -1,0 +1,4 @@
+name: RelifeAdminLogging
+version: '${project.version}'
+main: net.legendahlupa.com.relifeadminlogging.RelifeAdminLogging
+api-version: '1.20'
