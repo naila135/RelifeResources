@@ -1,0 +1,10 @@
+name: RelifeAdminPassword
+version: '1.0-SNAPSHOT'
+main: net.legendahlupa.com.relifeadminpassword.RelifeAdminPassword
+api-version: 1.18
+authors: [ LegendaHluPa ]
+depend:
+  - LuckPerms
+commands:
+  alogin:
+  agenerate:
